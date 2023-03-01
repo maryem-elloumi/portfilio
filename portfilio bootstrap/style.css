@@ -1,0 +1,351 @@
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@500&display=swap');
+
+/*section 1 start*/
+
+/*home start*/
+.body{
+    margin: 0px;
+}
+
+.bg{
+    background-color: #101010;
+    padding: 40px 0px ;
+}
+
+.links{
+    text-decoration: none;
+    font-family: 'Rajdhani', sans-serif;
+    font-weight: 500;
+    letter-spacing: 1s;
+    font-size: 18px;
+
+}
+
+.links:hover{
+    color: #f7B940 !important;
+}
+
+
+.btn-start{
+    float:right;
+    border-radius: 8px;
+    background-color: #f7B940 !important;
+}
+
+
+/*home ends*/
+/*about start */
+
+.p-about{
+    font-family: 'Rajdhani', sans-serif;
+    font-weight: 600;
+
+}
+
+.h1-about{
+    font-weight: 700;
+    font-family: 'Rajdhani', sans-serif;
+    font-size: 65px;
+}
+
+.a-about{
+    text-decoration: none;
+     border-bottom: 2px solid white;
+    }
+
+.img-about{
+    width: 440px;
+    height: 430px;
+    margin-right: 55px;
+    margin-top: 50px;
+}
+
+.btn-about{
+    width: 210px;
+    background-color: #f7B940 !important;
+
+}
+
+.about{
+    line-height: 20px;
+    letter-spacing: 2s;
+    background-color: #101010;
+    padding-top: 50px;
+
+}
+
+/*section 1 ends*/
+/*section 2 start*/
+
+.bg-section{
+    background-color: #1a1f22 ;
+    padding: 65px 0px;
+
+}
+
+.section-h4{
+
+    font-family: 'Rajdhani', sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+
+
+}
+
+.section-h1{
+    font-family: 'Rajdhani', sans-serif;
+    font-size: 65px !important; 
+    font-weight: 700 !important;  
+}
+
+.section-p{
+    font-size: 12px;
+    font-family: 'Rajdhani', sans-serif;
+    color: #abc4cc;
+
+}
+
+
+/*skils start*/
+.skils{
+    background-color: #102a3c;
+    
+}
+
+.progress{
+    margin-top: 65px;
+}
+
+.h4-title{
+    font-family: 'Rajdhani', sans-serif;
+}
+
+.sub-title{
+    font-weight: bold;
+    font-size: 40px;
+}
+
+
+
+/*skils ends*/
+
+/*solution start*/
+
+.solution{
+   background-color: #1a1f22;
+   padding: 80px 0px;
+
+}
+
+.card{
+    background-color: transparent !important;
+    line-height: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    
+    
+}
+
+.card:hover{
+    background-color: #f7B940;
+}
+
+
+
+.card-1{
+
+
+    border-right: 1px solid #f7B940 !important;
+    border-bottom: 1px solid #f7B940 !important;
+    border-radius:0% !important;
+    
+
+}
+
+.card-2{
+    border-right: 1px solid #f7B940 !important;
+    border-bottom: 1px solid #f7B940 !important;
+    border-radius:0% !important;
+}
+
+.card-3{
+    border-bottom: 1px solid #f7B940 !important;
+    border-radius:0% !important;
+
+    
+}
+
+.card-4{
+    border-right: 1px solid #f7B940 !important;
+    border-radius:0% !important;
+
+}
+
+.card-5{
+    border-radius:0% !important;
+    
+}
+
+
+.card-6{
+    border-left: 1px solid #f7B940 !important;
+    border-radius:0% !important;
+    
+    
+
+
+}
+
+
+.img-card{
+    height: 80px!important;
+    width: 80px !important;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.service:hover{
+    background-color: #f7B940;
+}
+
+.service{
+    transition: 0.3s;
+}
+
+
+.card-text {
+    font-size: 13px;
+}
+
+.card-title{
+    font-family: 'Rajdhani', sans-serif;
+    font-weight: 600;
+    letter-spacing: 3s;
+
+}
+
+.card-text{
+    font-family: 'Rajdhani', sans-serif;
+    letter-spacing: 2s;
+}
+/*solution ends
+
+/*number starts*/
+.img-number{
+    width: 45px !important;
+    height: 45px;
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+
+.card{
+    border: none !important;
+    margin-top: 50px;
+}
+
+.h5-number{
+    font-family: 'Rajdhani', sans-serif;
+    font-weight: 700 !important;
+    font-size: 22px;
+}
+
+.p-number{
+    font-family: 'Rajdhani', sans-serif;
+    font-weight: 700 !important;
+    font-size: 18px;
+    text-transform: uppercase;
+
+}
+
+.number{
+    background-color: #102a3c;
+    padding: 40px 0px;
+}
+/*number ends*/
+
+/*image start*/
+
+.image-hov{
+    padding-right: 90px;
+    width: 650px;
+    height: 300px;
+}
+
+.image-hov2{
+    height: 300px;
+}
+
+.image-hov3{
+    padding-left: 20px;
+    height: 300px;
+}
+
+.image-hov4{
+    height: 300px;
+    width: 270px;
+    
+}
+
+.image-hov5{
+    height: 300px;
+    margin-left: 5px;
+    width: 270px;
+
+}
+
+.image-hov6{
+    width: 640px;
+    height: 300px;
+     padding-right: 50px;
+
+}
+
+
+
+
+.car{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+/*image ends*/
+/*contact start*/
+.inp{
+
+    background-color: transparent !important;
+    color: #abc4cc !important;
+    
+}
+
+
+.inp::placeholder{
+    color: #abc4cc !important;
+}
+
+
+
+.image-work{
+    background-color: #1a1f22;
+    padding: 80px 0px;
+}
+
+#hbox{
+    height: 250px;
+    
+    
+}
+
+
+
+.footer-home{
+    background-color:#102a3c;
+    padding: 40px 0px;
+}
+
+
+
+
+
+/*contact ends*/
